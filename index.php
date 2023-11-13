@@ -49,15 +49,11 @@ function calculateTotalValue($products) {
 
 $totalValue = calculateTotalValue($products);
 echo "Total value of all products: $" . $totalValue;
-?>
-
-
-
-
-
-
-
-}
+echo"asdfaf";
 
 ?>
+
+
+
+
 
